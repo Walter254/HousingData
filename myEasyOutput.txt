@@ -1,0 +1,7 @@
+Enter row: Enter col: Id: 4 Lot: A2 Color: orange Price: 2250 Bedrooms: 4 Available: Yes
+Enter row: Enter col: No house
+Enter row: Enter col: Id: 2 Lot: B1 Color: white Price: 1600 Bedrooms: 3 Available: No
+Enter row: Enter col: Id: 3 Lot: D2 Color: orange Price: 2550 Bedrooms: 5 Available: Yes
+Enter row: Enter col: No house
+Enter row: Enter col: Id: 1 Lot: D3 Color: blue Price: 700 Bedrooms: 1 Available: Yes
+Enter row: 
